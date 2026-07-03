@@ -77,6 +77,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aadisaksena/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -94,4 +95,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->

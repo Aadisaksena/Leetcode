@@ -78,6 +78,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadisaksena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aadisaksena/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -96,6 +97,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadisaksena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -109,4 +111,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadisaksena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

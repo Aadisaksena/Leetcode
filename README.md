@@ -80,12 +80,14 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aadisaksena/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aadisaksena/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Greedy
 |  |
@@ -99,4 +101,12 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->

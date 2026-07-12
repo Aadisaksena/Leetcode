@@ -84,6 +84,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |

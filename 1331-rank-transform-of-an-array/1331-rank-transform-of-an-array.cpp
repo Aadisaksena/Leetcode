@@ -13,9 +13,9 @@ public:
             mp[nums[i]]=x;
            
         }
-        vector<int>ans;
+        vector<int>ans(arr.size(),0);
         for(int i=0;i<arr.size();i++){
-            ans.push_back(mp[arr[i]]);
+            ans[i]=mp[arr[i]];
         }
         return ans;
     }

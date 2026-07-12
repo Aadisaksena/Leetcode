@@ -127,4 +127,20 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

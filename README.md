@@ -151,4 +151,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Aadisaksena/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Aadisaksena/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

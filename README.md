@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1043-partition-array-for-maximum-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0131-palindrome-partitioning](https://github.com/Aadisaksena/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aadisaksena/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Tree
 |  |
 | ------- |
@@ -160,4 +162,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Aadisaksena/Leetcode/tree/master/1291-sequential-digits) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->

@@ -109,6 +109,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadisaksena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,4 +188,8 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadisaksena/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

@@ -150,12 +150,14 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -171,6 +174,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
 | ------- |

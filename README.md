@@ -157,6 +157,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |

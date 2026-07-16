@@ -89,6 +89,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,18 +124,21 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadisaksena/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadisaksena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Aadisaksena/Leetcode/tree/master/1089-duplicate-zeros) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -192,11 +196,13 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadisaksena/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |

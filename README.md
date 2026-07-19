@@ -129,6 +129,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [2235-add-two-integers](https://github.com/Aadisaksena/Leetcode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadisaksena/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |

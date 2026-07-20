@@ -87,6 +87,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1043-partition-array-for-maximum-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Aadisaksena/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadisaksena/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -236,6 +237,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -280,4 +282,8 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadisaksena/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadisaksena/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

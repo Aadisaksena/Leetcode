@@ -127,6 +127,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -183,6 +184,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -200,6 +202,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -215,6 +218,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -235,6 +239,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |

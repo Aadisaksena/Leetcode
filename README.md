@@ -94,6 +94,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aadisaksena/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aadisaksena/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2235-add-two-integers](https://github.com/Aadisaksena/Leetcode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aadisaksena/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadisaksena/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -268,6 +270,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aadisaksena/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
 | ------- |

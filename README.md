@@ -90,6 +90,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadisaksena/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Aadisaksena/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aadisaksena/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -299,6 +300,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aadisaksena/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |

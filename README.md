@@ -194,6 +194,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -253,6 +254,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -353,4 +355,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aadisaksena/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

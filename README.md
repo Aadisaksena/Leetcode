@@ -103,6 +103,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Aadisaksena/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aadisaksena/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -142,6 +143,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Aadisaksena/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Aadisaksena/Leetcode/tree/master/1406-stone-game-iii) |
@@ -185,6 +187,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
@@ -249,6 +252,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
@@ -371,6 +375,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |

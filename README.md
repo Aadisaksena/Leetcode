@@ -185,6 +185,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -209,6 +210,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
@@ -245,6 +247,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -365,6 +368,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Nim Game
 |  |

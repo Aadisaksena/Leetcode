@@ -189,6 +189,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -215,6 +216,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
@@ -254,6 +256,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -377,6 +380,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Nim Game

@@ -120,6 +120,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aadisaksena/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2029-stone-game-ix](https://github.com/Aadisaksena/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -209,6 +210,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -232,6 +234,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -276,6 +279,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -312,6 +316,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -383,6 +388,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0099-recover-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Nim Game
 |  |
 | ------- |

@@ -205,6 +205,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -230,6 +231,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -274,6 +276,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -389,6 +392,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0098-validate-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Nim Game

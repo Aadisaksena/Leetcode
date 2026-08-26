@@ -96,6 +96,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Aadisaksena/Leetcode/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aadisaksena/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aadisaksena/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -132,6 +133,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadisaksena/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Aadisaksena/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Aadisaksena/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +253,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +302,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aadisaksena/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -408,6 +413,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Nim Game
 |  |
 | ------- |

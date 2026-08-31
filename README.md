@@ -401,6 +401,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aadisaksena/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aadisaksena/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Search Tree
 |  |
 | ------- |

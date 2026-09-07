@@ -85,6 +85,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0486-predict-the-winner](https://github.com/Aadisaksena/Leetcode/tree/master/0486-predict-the-winner) |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0994-rotting-oranges](https://github.com/Aadisaksena/Leetcode/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Aadisaksena/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -265,6 +266,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0226-invert-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Aadisaksena/Leetcode/tree/master/0994-rotting-oranges) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -372,6 +374,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Aadisaksena/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |

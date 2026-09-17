@@ -88,6 +88,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aadisaksena/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Aadisaksena/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aadisaksena/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Aadisaksena/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -249,6 +250,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0669-trim-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Aadisaksena/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -275,6 +277,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0733-flood-fill](https://github.com/Aadisaksena/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aadisaksena/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -385,6 +388,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0130-surrounded-regions](https://github.com/Aadisaksena/Leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Aadisaksena/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aadisaksena/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
@@ -460,4 +464,5 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aadisaksena/Leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->

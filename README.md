@@ -161,6 +161,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0096-unique-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/Aadisaksena/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Aadisaksena/Leetcode/tree/master/0486-predict-the-winner) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aadisaksena/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Aadisaksena/Leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Aadisaksena/Leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Aadisaksena/Leetcode/tree/master/2235-add-two-integers) |
@@ -470,4 +471,8 @@ If you find this repository helpful, consider giving it a ⭐!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aadisaksena/Leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aadisaksena/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

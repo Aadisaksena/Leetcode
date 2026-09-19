@@ -146,6 +146,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aadisaksena/Leetcode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/Aadisaksena/Leetcode/tree/master/0127-word-ladder) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -192,6 +193,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Aadisaksena/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Aadisaksena/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aadisaksena/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -274,6 +276,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0101-symmetric-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadisaksena/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aadisaksena/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Aadisaksena/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Aadisaksena/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aadisaksena/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Aadisaksena/Leetcode/tree/master/0207-course-schedule) |
@@ -475,4 +478,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aadisaksena/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Aadisaksena/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

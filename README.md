@@ -203,6 +203,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aadisaksena/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aadisaksena/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aadisaksena/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
@@ -341,6 +342,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aadisaksena/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aadisaksena/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |

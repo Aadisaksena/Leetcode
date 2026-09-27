@@ -207,6 +207,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0257-binary-tree-paths](https://github.com/Aadisaksena/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Aadisaksena/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadisaksena/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadisaksena/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadisaksena/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -382,6 +383,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aadisaksena/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Aadisaksena/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadisaksena/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -513,4 +515,8 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Aadisaksena/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aadisaksena/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

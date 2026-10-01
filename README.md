@@ -490,6 +490,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0210-course-schedule-ii](https://github.com/Aadisaksena/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aadisaksena/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Aadisaksena/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1791-find-center-of-star-graph](https://github.com/Aadisaksena/Leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |

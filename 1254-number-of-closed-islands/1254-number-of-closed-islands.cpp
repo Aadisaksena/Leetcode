@@ -22,31 +22,38 @@ public:
         }
         return count;
     }
-    void bfs(vector<vector<int>>& grid, int i, int j) {
-        queue<pair<int, int>> q;
-        q.push({i, j});
-        while (!q.empty()) {
-            auto aage = q.front();
-            int row = aage.first;
-            int col = aage.second;
-            grid[aage.first][aage.second] = 1;
-            q.pop();
-            if (row - 1 >= 0) {
-                if (grid[row - 1][col] == 0)
-                    q.push({row - 1, col});
-            }
-            if (row + 1 <= grid.size()-1) {
-                if (grid[row + 1][col] == 0)
-                    q.push({row + 1, col});
-            }
-            if (col - 1 >= 0) {
-                if (grid[row][col - 1] == 0)
-                    q.push({row, col - 1});
-            }
-            if (col + 1 <= grid[0].size() - 1) {
-                if (grid[row][col + 1] == 0)
-                    q.push({row, col + 1});
-            }
+   
+void bfs(vector<vector<int>>& grid, int i, int j) {
+    queue<pair<int, int>> q;
+    q.push({i, j});
+    grid[i][j] = 1;  // Mark visited immediately
+
+    while (!q.empty()) {
+        auto aage = q.front();
+        int row = aage.first;
+        int col = aage.second;
+        q.pop();
+
+        if (row - 1 >= 0 && grid[row - 1][col] == 0) {
+            grid[row - 1][col] = 1;
+            q.push({row - 1, col});
+        }
+
+        if (row + 1 < grid.size() && grid[row + 1][col] == 0) {
+            grid[row + 1][col] = 1;
+            q.push({row + 1, col});
+        }
+
+        if (col - 1 >= 0 && grid[row][col - 1] == 0) {
+            grid[row][col - 1] = 1;
+            q.push({row, col - 1});
+        }
+
+        if (col + 1 < grid[0].size() && grid[row][col + 1] == 0) {
+            grid[row][col + 1] = 1;
+            q.push({row, col + 1});
         }
     }
+}
+
 };

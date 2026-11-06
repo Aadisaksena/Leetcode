@@ -106,6 +106,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2029-stone-game-ix](https://github.com/Aadisaksena/Leetcode/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aadisaksena/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2747-count-zero-request-servers](https://github.com/Aadisaksena/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aadisaksena/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -164,6 +165,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadisaksena/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2747-count-zero-request-servers](https://github.com/Aadisaksena/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aadisaksena/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -193,6 +195,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1048-longest-string-chain](https://github.com/Aadisaksena/Leetcode/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Aadisaksena/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -424,6 +427,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadisaksena/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadisaksena/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/Aadisaksena/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Matrix
 |  |
 | ------- |

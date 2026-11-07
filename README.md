@@ -102,6 +102,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadisaksena/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aadisaksena/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Aadisaksena/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Aadisaksena/Leetcode/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aadisaksena/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -549,6 +550,7 @@ If you find this repository helpful, consider giving it a ⭐!
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aadisaksena/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1882-process-tasks-using-servers](https://github.com/Aadisaksena/Leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Shortest Path
 |  |
 | ------- |

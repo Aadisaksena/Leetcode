@@ -96,6 +96,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadisaksena/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aadisaksena/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aadisaksena/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Aadisaksena/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aadisaksena/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/Aadisaksena/Leetcode/tree/master/1406-stone-game-iii) |
@@ -287,6 +288,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aadisaksena/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1254-number-of-closed-islands](https://github.com/Aadisaksena/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Aadisaksena/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Aadisaksena/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -321,6 +323,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadisaksena/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aadisaksena/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Aadisaksena/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Aadisaksena/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aadisaksena/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aadisaksena/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -415,6 +418,7 @@ If you find this repository helpful, consider giving it a ⭐!
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aadisaksena/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Aadisaksena/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -441,6 +445,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aadisaksena/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aadisaksena/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aadisaksena/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aadisaksena/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aadisaksena/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
@@ -528,6 +533,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [0200-number-of-islands](https://github.com/Aadisaksena/Leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Aadisaksena/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Aadisaksena/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Aadisaksena/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Geometry
 |  |
 | ------- |

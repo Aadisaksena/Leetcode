@@ -116,6 +116,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aadisaksena/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Aadisaksena/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadisaksena/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aadisaksena/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aadisaksena/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -139,6 +140,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aadisaksena/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/Aadisaksena/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/Aadisaksena/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aadisaksena/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |

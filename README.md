@@ -111,6 +111,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Aadisaksena/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2747-count-zero-request-servers](https://github.com/Aadisaksena/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aadisaksena/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aadisaksena/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aadisaksena/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |

@@ -190,6 +190,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [3312-sorted-gcd-pair-queries](https://github.com/Aadisaksena/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aadisaksena/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadisaksena/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Aadisaksena/Leetcode/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aadisaksena/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Aadisaksena/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aadisaksena/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -386,6 +387,7 @@ If you find this repository helpful, consider giving it a ⭐!
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aadisaksena/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aadisaksena/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aadisaksena/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Aadisaksena/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aadisaksena/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadisaksena/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
